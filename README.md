@@ -1,0 +1,11 @@
+Hello, I'm Matéo Moglia. Studying economics at Ecole Normale Supérieure de Lyon (France),
+I'm broadly interested in urban economics and specifically on gender-related issues.
+
+This GitHub aims to gather any relevant code I'm likely to use through my research.
+
+Languages:
+
+  * IT : Mostly Stata, a bit of R and from time to time, Py
+  * Spoken : French (native), English (C1)
+  
+Any questions? Feel free to reach me on Twitter (@MateoMogliaEcon) or mail (mateo.moglia@gmail.com)
