@@ -1,5 +1,5 @@
-Hello, I'm Matéo Moglia. Studying economics at Ecole Normale Supérieure de Lyon (France),
-I'm broadly interested in urban economics, local fiscal policies and empirical I/O.
+Hello, I'm Matéo Moglia. I am a first year PhD student in spatial econ at CREST/Institut Polytechnique de Paris,
+I'm broadly interested in urban economics, local fiscal policies and local political economy.
 
 This GitHub aims to gather any relevant code I'm likely to use through my research.
 
