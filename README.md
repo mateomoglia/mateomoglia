@@ -1,7 +1,7 @@
-Hello, I'm Matéo Moglia. I am a first year PhD student in spatial econ at CREST/Institut Polytechnique de Paris,
+Hello, I'm Matéo Moglia. I am a PhD student in spatial econ at CREST/Institut Polytechnique de Paris,
 I'm broadly interested in urban economics, local fiscal policies and local political economy.
 
-This GitHub aims to gather any relevant code I'm likely to use through my research.
+This GitHub aims to gather any relevant code I'm likely to use through my research + share stuff about the classes I teach. 
 
 Languages:
 
